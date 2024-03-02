@@ -37,6 +37,10 @@ AI-Powered image editor!
 
 ![Background Remove](./screenshots/bg-remove.png)
 
+### ✏️ Update/Delete
+
+![Update Delete](./screenshots/update.png)
+
 ### 🙍🏼‍♂️🙍🏼‍♀️ Profile
 
 ![Profile](./screenshots/profile.png)
